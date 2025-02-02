@@ -1,5 +1,4 @@
-console.log("Game script loaded successfully!");
-
+alert("Game script is running!");
 const canvas = document.getElementById("gameCanvas");
 const ctx = canvas.getContext("2d");
 
